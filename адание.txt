@@ -1,0 +1,12 @@
+#include <iostream>
+int main(){
+	int w;
+ cout << 'watermelon mass";
+
+ cin >>w;
+	w % 2 == 0 && w != 2 ? cout << "  YES  " : cout << "   NO  ";
+	
+ system("pause");
+
+}
+}
